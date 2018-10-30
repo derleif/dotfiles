@@ -1,0 +1,5 @@
+alias fucking='sudo'
+alias ..='cd ..'
+alias ...='cd ../..'
+alias sa='sudo apt'
+alias sau='sudo apt update && sudo apt upgrade'
